@@ -6,7 +6,7 @@ const CACHE_INMUTABLE_NAME = 'inmutable-v1';
 const CACHE_DYNAMIC_LIMIT = 50;
 
 const APP_SHELL = [
-    '/',
+    // '/', // SOLO SE USA EN EL STATIC PARA DESARROLLO
     'index.html',
     'css/style.css',
     'img/favicon.ico',
